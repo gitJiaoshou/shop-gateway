@@ -64,14 +64,6 @@
                 </exclusion>
             </exclusions>
         </dependency>
-<!--        compile("org.apache.httpcomponents:httpasyncclient:" + apache_httpclient_version)-->
-<!--        compile("org.apache.httpcomponents:httpclient:" + apache_httpclient_mime_version)-->
-<!--        compile("org.apache.httpcomponents:httpmime:" + apache_httpclient_mime_version)-->
-
-
-
-<!--        compile("org.springframework.boot:spring-boot-starter-actuator:" + spring_boot_version)-->
-<!--        compile('org.codehaus.janino:janino:' + janino_version)-->
     </dependencies>
 
     <build>
